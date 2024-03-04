@@ -66,9 +66,9 @@ export default defineConfig(({ mode }) => {
           "safari-pinned-tab.svg",
         ],
         manifest: {
-          name: "movie-web",
-          short_name: "movie-web",
-          description: "The place for your favourite movies & shows",
+          name: "GDL Movie - Free movies streaming website!",
+          short_name: "GDL Movie - Free movies streaming website!",
+          description: "Watch Movies and Tv Series from Netflix, Amazon Prime Video, Disney+, Hotstar and 50+ More OTT Platform, No Ads with 1 click play available in Android mobile, Iphone IOS and computer.",
           theme_color: "#120f1d",
           background_color: "#120f1d",
           display: "standalone",
